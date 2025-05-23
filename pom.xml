@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <urlhttp://52.66.197.232:8081/repository/maven-release-repo/></url>
+	      <id>maven</id>
+	      <name>My-project</name>
+	      <url>https://github.com/Satturi-Prashanth/maven-web-application.git/></url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>maven-snapshots</name>
-	      <url>http://52.66.197.232:8081/repository/maven-snapshot-repo/</url>
+	      <id>maven</id>
+	      <name>My-project</name>
+	      <url>https://github.com/Satturi-Prashanth/maven-web-application.git/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
