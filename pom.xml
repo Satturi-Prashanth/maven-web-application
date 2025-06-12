@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>maven</id>
 	      <name>My-project</name>
-	      <url>https://github.com/Satturi-Prashanth/maven-web-application.git/></url>
+	      <url>http://52.12.120.1:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>maven</id>
 	      <name>My-project</name>
-	      <url>https://github.com/Satturi-Prashanth/maven-web-application.git/</url>
+	      <url>http://52.12.120.1:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
