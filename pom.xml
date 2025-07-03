@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>maven</id>
 	      <name>My-project</name>
-	      <url>http://13.114.31.222:8081/repository/maven-releases</url>
+	      <url>http://13.114.31.222:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>maven</id>
 	      <name>My-project</name>
-	      <url>http:http://13.114.31.222:8081/repository/maven-snapshot-1</url>
+	      <url>http://13.114.31.222:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
